@@ -25,4 +25,4 @@ PR should follow some of these guidelines:
 
 1. One or more related links added to an appropriate section of the README.md
   - Added lines should include a parenthetical credit to whoever's work it is (if available)
--. A brief description that describes what the links contain and why they'd be good for beginners
+- A brief description that describes what the links contain and why they'd be good for beginners
