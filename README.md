@@ -24,4 +24,5 @@ If you have any links you'd like to add please submit a PR or and Issue and we'l
 PR should follow some of these guidelines:
 
 1. 1 or more related links added to an appropriate section of the README.md
+  - Added lines should include a parenthetical credit to whoever's work it is (if available)
 2. A brief description that describes what the links contain and why they'd be good for beginners
