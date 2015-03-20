@@ -20,3 +20,8 @@
 ### Contributing
 
 If you have any links you'd like to add please submit a PR or and Issue and we'll merge it in as soon as possible. :)
+
+PR should follow some of these guidelines:
+
+1. 1 or more related links added to an appropriate section of the README.md
+2. A brief description that describes what the links contain and why they'd be good for beginners
