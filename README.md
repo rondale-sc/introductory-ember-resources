@@ -17,6 +17,7 @@
 - Ember Watch - list of talks, screencasts, podcasts, books (Philip Poots) http://emberwatch.com/
 - Ember Weekly - currated list of links to resources (Owain Williams) http://emberweekly.com/
 - Ember.js Discuss - http://discuss.emberjs.com/
+- Ember Subreddit - http://www.reddit.com/r/emberjs
 
 ### Contributing
 
